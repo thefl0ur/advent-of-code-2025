@@ -2,10 +2,23 @@
 
 Advent of code puzzles for 2025.
 
+### Run
+
+Run solution
+```bash
+python3 python3 -m aoc.day{x}
+```
+
+Run tests
+```bash
+python -m unittest discover tests
+```
+
 ### Stats
 
 | # | Task | Part 1 | Part 2 |
-| 1 | [Secret Entrance](https://adventofcode.com/2025/day/1) | - | - |
+|---|------|--------|--------|
+| 1 | [Secret Entrance](https://adventofcode.com/2025/day/1) | + | - |
 
 ### Thanks
 
