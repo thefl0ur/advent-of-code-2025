@@ -4,6 +4,11 @@ Advent of code puzzles for 2025.
 
 ### Run
 
+To init template for puzzle execute
+```bash
+make number={x}
+```
+
 Run solution
 ```bash
 python3 python3 -m aoc.day{x}
