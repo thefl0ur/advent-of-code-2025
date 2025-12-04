@@ -8,4 +8,4 @@ FILENAME = "input.md"
 if __name__ == "__main__":
     data = read(DIR / FILENAME)
     print(f"Part 1: {part1(data)}")
-    # print(f"Part 2: {part2(data)}")
+    print(f"Part 2: {part2(data)}")

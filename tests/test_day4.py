@@ -16,7 +16,8 @@ class TestDay4(unittest.TestCase):
         assert result == 13, f"expect 13, got {result}"
 
     def test_part_2(self):
-        raise NotImplementedError()
+        result = part2(self.data)
+        assert result == 43, f"expect 43, got {result}"
 
 
 if __name__ == "__main__":
