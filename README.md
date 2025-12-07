@@ -29,6 +29,7 @@ python -m unittest discover tests
 | 4 | [Printing Department](https://adventofcode.com/2025/day/4) | + | + |
 | 5 | [Cafeteria](https://adventofcode.com/2025/day/5) | + | - |
 | 6 | [Trash Compactor](https://adventofcode.com/2025/day/6) | + | + |
+| 7 | [Laboratories](https://adventofcode.com/2025/day/7) | + | - |
 
 ### Thanks
 
