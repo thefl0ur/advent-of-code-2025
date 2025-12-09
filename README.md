@@ -31,6 +31,7 @@ python -m unittest discover tests
 | 6 | [Trash Compactor](https://adventofcode.com/2025/day/6) | + | + |
 | 7 | [Laboratories](https://adventofcode.com/2025/day/7) | + | - |
 | 8 | [Playground](https://adventofcode.com/2025/day/8) | - | - |
+| 9 | [Movie Theater](https://adventofcode.com/2025/day/9) | + | - |
 
 ### Thanks
 
