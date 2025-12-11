@@ -32,6 +32,7 @@ python -m unittest discover tests
 | 7 | [Laboratories](https://adventofcode.com/2025/day/7) | + | - |
 | 8 | [Playground](https://adventofcode.com/2025/day/8) | - | - |
 | 9 | [Movie Theater](https://adventofcode.com/2025/day/9) | + | - |
+| 10 | [Factory](https://adventofcode.com/2025/day/10) | - | - |
 
 ### Thanks
 
